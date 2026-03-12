@@ -72,9 +72,40 @@ s.close()
 
 ## Output
 
+```
+client
+```
 ![alt text](<Screenshot 2026-03-12 105343.png>)
 
+```
+server
+```
 ![alt text](<Screenshot 2026-03-12 105325.png>)
+
+```
+netstat
+```
+![alt text](<Screenshot 2026-03-12 112701.png>)
+
+```
+ipconfig
+```
+![alt text](<Screenshot 2026-03-12 112727.png>)
+
+```
+nslookup
+```
+![alt text](<Screenshot 2026-03-12 112828.png>)
+
+```
+traceroute
+```
+![alt text](<Screenshot 2026-03-12 112950.png>)
+
+```
+tcpdump
+```
+![alt text](dumpcn.jpeg)
 
 ## Result
 Thus Execution of Network commands Performed 
